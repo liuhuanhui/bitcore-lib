@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-lib",
+  "name": "wccore-lib",
   "version": "0.16.0",
-  "description": "A pure and powerful JavaScript Bitcoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "description": "wccore-lib fork BitPay",
+  "author": "HuanHuiLiu <543800057@qq.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-lib.git"
+    "url": "https://github.com/liuhuanhui/bitcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
